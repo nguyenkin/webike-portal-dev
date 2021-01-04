@@ -1,0 +1,2571 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 2007,
+      "post_content": "<p>明けましておめでとうございます</p>\n<p>予期せぬタイミングでの転倒トラブル。<br />\nそんなトラブル時にマシンダメージを最小限に抑えることに一役買ってくれるのがベビーフェイスのプロテクションパーツだ。<br />\nそのプロテクションパーツにはフレームスライダーとエンジン周りを保護するエンジンスライダーやエンジンカバーなどが用意されている。</p>\n<p>アルミ削り出しのベースプレートにジュラコン樹脂のスライダーを組み合わせたエンジンスライダーは最もポピュラーで多くの車種がラインナップされている。</p>\n",
+      "post_title": "【テスト0104-001】新年一発目投稿",
+      "full_url": "https://st-news.webike.net/2021/01/04/190693/",
+      "post_slug": "%e3%80%90%e3%83%86%e3%82%b9%e3%83%880104-001%e3%80%91%e6%96%b0%e5%b9%b4%e4%b8%80%e7%99%ba%e7%9b%ae%e6%8a%95%e7%a8%bf",
+      "config_id": 52,
+      "external_id": 190693,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2021-01-04 14:26:01",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2021-01-04 13:00:04",
+      "updated_at": "2021-01-04 13:00:17",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1961,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 2007,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2021-01-04 13:00:18",
+        "updated_at": "2021-01-04 13:00:18",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 179,
+          "title": "未分類",
+          "slug": "%e6%9c%aa%e5%88%86%e9%a1%9e",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 1,
+          "created_at": "2020-10-07 14:59:18",
+          "updated_at": "2020-10-07 14:59:18",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 2007,
+            "category_id": 179,
+            "created_at": "2021-01-04 13:00:13",
+            "updated_at": "2021-01-04 13:00:13"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 2,
+                "created_at": "2020-11-17 09:49:55",
+                "updated_at": "2020-11-17 09:49:55"
+              }
+            },
+            {
+              "id": 24,
+              "title": "antiquarianism",
+              "slug": "antiquarianism",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 3,
+              "created_at": "2020-10-07 11:03:54",
+              "updated_at": "2020-10-07 11:03:54",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 24,
+                "created_at": "2020-11-17 09:52:09",
+                "updated_at": "2020-11-17 09:52:09"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 1998,
+      "post_content": "<p>━━━━━━━━━━━━━━━━━━━━━<br />\nバイクの総合情報サイト【Webike：ウェビック】<br />\n2020「歳末感謝祭」12月4日（金）より開催！</p>\n<p>https://www.webike.net/<br />\n━━━━━━━━━━━━━━━━━━━━━</p>\n<p>Webikeにおいて2020「歳末感謝祭」を開催いたします。<br />\n「歳末感謝祭」の概要は次のとおりです。</p>\n<p>■名称<br />\n【Webikeショッピング 歳末感謝祭】</p>\n<p>■開催日程<br />\n2020年12月4日（金）から 2020年12月17日（木）まで</p>\n<p>◇「Webikeショッピング 歳末感謝祭」スペシャルサイト</p>\n<p>https://www.webike.net/sale/2020_yearend_sale/</p>\n<p>■内容<br />\nカスタムパーツからヘルメットやウェアなどのバイク用品まで、様々なジャンルに渡りセール価格でご提供！<br />\n12月4日(金)から2週間連続でお届けいたします。</p>\n<p>また、同時に国内4メーカーの純正部品も5％OFF、「週替わり目玉商品」はウェビックのセール価格からさらにプライスダウン！<br />\n毎週金曜日にセールラインナップを更新、イチオシのオトクなアイテムを多数ご用意してお待ちしております。</p>\n<p>ライダーの皆様が引き続きバイクライフを楽しんでいただけるよう、Webikeはサポートしていきます！</p>\n<p>…………………………………………………………………</p>\n",
+      "post_title": "投稿テスト3",
+      "full_url": "https://st-news.webike.net/2020/12/24/190690/",
+      "post_slug": "%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%883",
+      "config_id": 52,
+      "external_id": 190690,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-12-24 18:06:53",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-12-24 16:12:01",
+      "updated_at": "2021-01-04 13:00:04",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1952,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 1998,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-12-24 16:12:08",
+        "updated_at": "2020-12-24 16:12:08",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 179,
+          "title": "未分類",
+          "slug": "%e6%9c%aa%e5%88%86%e9%a1%9e",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 1,
+          "created_at": "2020-10-07 14:59:18",
+          "updated_at": "2020-10-07 14:59:18",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 1998,
+            "category_id": 179,
+            "created_at": "2021-01-04 13:00:13",
+            "updated_at": "2021-01-04 13:00:13"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 2,
+                "created_at": "2020-11-17 09:49:55",
+                "updated_at": "2020-11-17 09:49:55"
+              }
+            },
+            {
+              "id": 24,
+              "title": "antiquarianism",
+              "slug": "antiquarianism",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 3,
+              "created_at": "2020-10-07 11:03:54",
+              "updated_at": "2020-10-07 11:03:54",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 24,
+                "created_at": "2020-11-17 09:52:09",
+                "updated_at": "2020-11-17 09:52:09"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 1999,
+      "post_content": "<p>平素はウェビックをご利用いただき、厚くお礼申し上げます。<br />\n強い冬型の気圧配置による大雪の影響で、一部地域でお荷物の集荷や配達に遅れが生じております。</p>\n<p>配送状況につきましては、各社追跡サービスよりご確認ください。<br />\nまた、お届けの詳細につきましては配送会社へお問い合わせくださいますようお願いいたします。</p>\n<p>日本郵便<br />\nヤマト運輸<br />\n佐川急便</p>\n<p>お客様にはご不便・ご迷惑をおかけいたしますが、ご理解賜りますようお願い申し上げます。</p>\n",
+      "post_title": "投稿テスト2",
+      "full_url": "https://st-news.webike.net/2020/12/24/190688/",
+      "post_slug": "%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%882",
+      "config_id": 52,
+      "external_id": 190688,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-12-24 18:06:09",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-12-24 16:12:01",
+      "updated_at": "2021-01-04 13:00:04",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1953,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 1999,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-12-24 16:12:08",
+        "updated_at": "2020-12-24 16:12:08",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 179,
+          "title": "未分類",
+          "slug": "%e6%9c%aa%e5%88%86%e9%a1%9e",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 1,
+          "created_at": "2020-10-07 14:59:18",
+          "updated_at": "2020-10-07 14:59:18",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 1999,
+            "category_id": 179,
+            "created_at": "2021-01-04 13:00:14",
+            "updated_at": "2021-01-04 13:00:14"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 2,
+                "created_at": "2020-11-17 09:49:55",
+                "updated_at": "2020-11-17 09:49:55"
+              }
+            },
+            {
+              "id": 24,
+              "title": "antiquarianism",
+              "slug": "antiquarianism",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 3,
+              "created_at": "2020-10-07 11:03:54",
+              "updated_at": "2020-10-07 11:03:54",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 24,
+                "created_at": "2020-11-17 09:52:09",
+                "updated_at": "2020-11-17 09:52:09"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 2000,
+      "post_content": "<p>平素は格別のご高配を賜り厚く御礼申し上げます。<br />\n誠に勝手ながら下記期間を休業とさせて頂きますのでご案内申し上げます。</p>\n<p>■窓口休業日:2020年12月30日(水)から2021年1月3日(日)まで<br />\n※商品の仕様・適合確認・未掲載商品窓口・SHOEI専用窓口のみ2020年12月29日15:00から2021年1月4日(月)10:00までお休みとなります。<br />\n※2021年1月4日(月)から窓口営業いたしますが、在庫品でも当日出荷のご要望にはお応えできかねてしまいます。<br />\n※期間中にお問い合わせ頂いた回答は、順次ご案内させていただきます。</p>\n<p>■出荷休業日：2020年12月30日(水)から2021年1月4日(月)まで<br />\n※2021年1月5日(火)から2021年1月11日(月)は在庫品のみ、順次出荷をさせていただきます。<br />\n※お取り寄せ品の出荷は2021年1月12日(火)から順次出荷させていただきます。</p>\n<p>お急ぎのところご迷惑をお掛けしてしまい恐縮ですが、ご了承賜りますようお願い申し上げます。</p>\n",
+      "post_title": "投稿テスト",
+      "full_url": "https://st-news.webike.net/2020/12/24/190686/",
+      "post_slug": "%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88",
+      "config_id": 52,
+      "external_id": 190686,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-12-24 18:05:11",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-12-24 16:12:01",
+      "updated_at": "2021-01-04 13:00:04",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1954,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 2000,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-12-24 16:12:08",
+        "updated_at": "2020-12-24 16:12:08",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 179,
+          "title": "未分類",
+          "slug": "%e6%9c%aa%e5%88%86%e9%a1%9e",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 1,
+          "created_at": "2020-10-07 14:59:18",
+          "updated_at": "2020-10-07 14:59:18",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 2000,
+            "category_id": 179,
+            "created_at": "2021-01-04 13:00:15",
+            "updated_at": "2021-01-04 13:00:15"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 2,
+                "created_at": "2020-11-17 09:49:55",
+                "updated_at": "2020-11-17 09:49:55"
+              }
+            },
+            {
+              "id": 24,
+              "title": "antiquarianism",
+              "slug": "antiquarianism",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 3,
+              "created_at": "2020-10-07 11:03:54",
+              "updated_at": "2020-10-07 11:03:54",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 24,
+                "created_at": "2020-11-17 09:52:09",
+                "updated_at": "2020-11-17 09:52:09"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 1983,
+      "post_content": "<p>test<br />\nupdate<br />\nkou<br />\ntest<br />\ntest</p>\n",
+      "post_title": "test test test 1207 updated",
+      "full_url": "https://st-news.webike.net/2020/12/07/190682/",
+      "post_slug": "test-test-test-1207",
+      "config_id": 52,
+      "external_id": 190682,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-12-07 11:23:50",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-12-07 10:00:03",
+      "updated_at": "2021-01-04 13:00:04",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1943,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 1983,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-12-07 10:00:11",
+        "updated_at": "2020-12-07 10:00:11",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 179,
+          "title": "未分類",
+          "slug": "%e6%9c%aa%e5%88%86%e9%a1%9e",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 1,
+          "created_at": "2020-10-07 14:59:18",
+          "updated_at": "2020-10-07 14:59:18",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 1983,
+            "category_id": 179,
+            "created_at": "2021-01-04 13:00:15",
+            "updated_at": "2021-01-04 13:00:15"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 2,
+                "created_at": "2020-11-17 09:49:55",
+                "updated_at": "2020-11-17 09:49:55"
+              }
+            },
+            {
+              "id": 24,
+              "title": "antiquarianism",
+              "slug": "antiquarianism",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 3,
+              "created_at": "2020-10-07 11:03:54",
+              "updated_at": "2020-10-07 11:03:54",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 179,
+                "target_category_id": 24,
+                "created_at": "2020-11-17 09:52:09",
+                "updated_at": "2020-11-17 09:52:09"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 1957,
+      "post_content": "<p>Lazyloadテスト001</p>\n<p><a href=\"https://st-news.webike.net/wp-content/uploads/2020/11/fendero02.jpeg\" data-rel=\"lightbox-gallery-HqXl\" title=\"\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-680x510.jpeg\" alt=\"\" width=\"680\" height=\"510\" class=\"aligncenter size-size5 wp-image-190665\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-680x510.jpeg 680w, https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-300x225.jpeg 300w, https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-768x576.jpeg 768w, https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-1024x768.jpeg 1024w, https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-280x210.jpeg 280w, https://st-news.webike.net/wp-content/uploads/2020/11/fendero02-150x112.jpeg 150w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p><a href=\"https://st-news.webike.net/wp-content/uploads/2020/11/fender01.jpeg\" data-rel=\"lightbox-gallery-HqXl\" title=\"\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/11/fender01-680x510.jpeg\" alt=\"\" width=\"680\" height=\"510\" class=\"aligncenter size-size5 wp-image-190666\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/11/fender01-680x510.jpeg 680w, https://st-news.webike.net/wp-content/uploads/2020/11/fender01-300x225.jpeg 300w, https://st-news.webike.net/wp-content/uploads/2020/11/fender01-768x576.jpeg 768w, https://st-news.webike.net/wp-content/uploads/2020/11/fender01-1024x768.jpeg 1024w, https://st-news.webike.net/wp-content/uploads/2020/11/fender01-280x210.jpeg 280w, https://st-news.webike.net/wp-content/uploads/2020/11/fender01-150x112.jpeg 150w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n",
+      "post_title": "矢島Lazyloadテスト 001",
+      "full_url": "https://st-news.webike.net/2020/11/24/190664/",
+      "post_slug": "%e7%9f%a2%e5%b3%b6lazyload%e3%83%86%e3%82%b9%e3%83%88-001",
+      "config_id": 52,
+      "external_id": 190664,
+      "author_id": 12,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-11-24 11:28:31",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-11-24 09:42:18",
+      "updated_at": "2021-01-04 12:00:04",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 1920,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 1957,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-11-24 09:42:19",
+        "updated_at": "2020-11-24 09:42:19",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 146,
+          "title": "イベント",
+          "slug": "event",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 5,
+          "created_at": "2020-10-07 14:58:46",
+          "updated_at": "2020-10-07 14:58:46",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 1957,
+            "category_id": 146,
+            "created_at": "2021-01-04 12:00:18",
+            "updated_at": "2021-01-04 12:00:18"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 149,
+          "title": "インプレ ピックアップ",
+          "slug": "comuu-impre",
+          "config_id": 52,
+          "parent_id": 148,
+          "external_id": 804,
+          "created_at": "2020-10-07 14:58:48",
+          "updated_at": "2020-10-07 14:58:48",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 1957,
+            "category_id": 149,
+            "created_at": "2021-01-04 12:00:18",
+            "updated_at": "2021-01-04 12:00:18"
+          },
+          "source_category": [
+            
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 964,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200623_dososhin-680x456.jpg\" alt=\"\" width=\"680\" height=\"456\" class=\"alignnone size-size5 wp-image-184429\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_dososhin.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_dososhin-300x201.jpg 300w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></p>\n<p>海外ツーリング専門の旅行会社 道祖神は、恒例のキャンプミーティング『海外ツーリングの宴』を7月18日（土）～19日（日）に静岡県梅ヶ島キャンプ場で開催する。</p>\n<p id=\"mm_text\">豪華賞品が当たる大ビンゴ大会や、来年の目玉ツアーの紹介などが行われる。これから海外ツーリングを目指すという人も、気軽に参加できる。</p>\n<h2 class=news_headline2>道祖神 海外ツーリングの宴 2020夏！ in 梅ヶ島</h2>\n<p><b>■日時</b><br />\n2020年7月18日（土）～19日（日）午後5時頃より（受付は午後2時から）<br />\n雨天決行（荒天の際は中止の場合あり）</p>\n<p><b>■場所</b><br />\n静岡市葵区 梅ヶ島温泉 市営梅ケ島キャンプ場（新東名新静岡インターから約1時間）<br />\n駐輪スペース、トイレ、水道あります。近くには温泉も！</p>\n<p><b>■参加費</b><br />\nお一人様700円</p>\n<p><b>■お申し込み・お問い合わせ</b><br />\n2020年7月15日（水）までに、電話またはお問い合わせフォームよりお申し込みください。キャンプ場代は当日、会場にて弊社スタッフにお支払ください。<br />\nお電話 : 03-6431-8198　担当 海野・金本・佐藤<br />\nメール : <a href=\"https://www.biketour.jp/contact/general/\" target=\"_blank\" rel=\"noopener \">お問い合わせフォーム</a></p>\n<p><a href=\"https://www.biketour.jp/event/00016/\" target=\"_blank\" rel=\"noopener \">→全文を読む</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"http://www.biketour.jp/\" target=\"_blank\" rel=\"nofollow\">道祖神</a> ]</p>\n",
+      "post_title": "道祖神、キャンプミーティング「海外ツーリングの宴 2020夏！ in 梅ヶ島」を7/18(土)・7/19(日)に開催",
+      "full_url": "https://st-news.webike.net/2020/06/23/184425/",
+      "post_slug": "%e9%81%93%e7%a5%96%e7%a5%9e%e3%80%81%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e3%83%9f%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%80%8c%e6%b5%b7%e5%a4%96%e3%83%84%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0",
+      "config_id": 52,
+      "external_id": 184425,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-23 14:30:14",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:40",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 927,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 964,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:40",
+        "updated_at": "2020-10-07 14:59:40",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 146,
+          "title": "イベント",
+          "slug": "event",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 5,
+          "created_at": "2020-10-07 14:58:46",
+          "updated_at": "2020-10-07 14:58:46",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 964,
+            "category_id": 146,
+            "created_at": "2020-10-07 14:59:40",
+            "updated_at": "2020-10-07 14:59:40"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 147,
+          "title": "イベント・ミーティング",
+          "slug": "event-meeting",
+          "config_id": 52,
+          "parent_id": 146,
+          "external_id": 22,
+          "created_at": "2020-10-07 14:58:47",
+          "updated_at": "2020-10-07 14:58:47",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 964,
+            "category_id": 147,
+            "created_at": "2020-10-07 14:59:40",
+            "updated_at": "2020-10-07 14:59:40"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 964,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:40",
+            "updated_at": "2020-10-07 14:59:40"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 968,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200610_moto-ap_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-183819\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200610_moto-ap_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200610_moto-ap_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200610_moto-ap_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200610_moto-ap_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></p>\n<p id=\"mm_text\">モト・グッツイとアプリリアは、正規販売店にて「Back to Rideキャンペーン」店頭試乗会の開催を追加した。実施各店に予約の上試乗するとモト・グッツィ／アプリリアグッズがプレゼントされる。</p>\n<p class=\"well3 text90\">【関連ニュース】<br />\n◆<a href=\"https://news.webike.net/2020/06/10/183816/\" target=\"_blank\">モト・グッツイ＆アプリリア、ライダーのための特典を詰め込んだ「Back to Rideキャンペーン」を実施　</a></p>\n<h2 class=news_headline2>モト・グッツィ Back to Ride キャンペーン</h2>\n<p><b>■D.D.BOYS Racing</b><br />\n大阪府豊中市<br />\n6月27日-7月5日</p>\n<p><b>■モータープラザカワイ</b><br />\n静岡県焼津市<br />\n6月27日-28日</p>\n<p><b>■エイトストローク</b><br />\n愛知県豊橋市<br />\n7月4日-5日</p>\n<p><b>■モト・グッツィ湘南</b><br />\n神奈川県茅ケ崎市<br />\n7月11日-19日</p>\n<p><b>■モト・グッツィ東京ベイ</b><br />\n東京都江東区<br />\n7月11日-19日</p>\n<p><b>■ユーメディア横浜新山下</b><br />\n神奈川県横浜市<br />\n7月25日-26日</p>\n<p><a href=\"https://motoguzzi-japan.com/news/2020/06/23/moto-guzzi-back-to-ride-%e5%ba%97%e9%a0%ad%e8%a9%a6%e4%b9%97%e4%bc%9a%e9%96%8b%e5%82%ac/\" target=\"_blank\" rel=\"noopener \">→詳細はこちら</a></p>\n<h2 class=news_headline2>アプリリア Back to Ride キャンペーン</h2>\n<p><b>■アプリリア湘南</b><br />\n神奈川県茅ケ崎市<br />\n7月4日-5日</p>\n<p><b>■スターズトレーディング</b><br />\n東京都町田市<br />\n7月11日-12日</p>\n<p><b>■アプリリア埼玉東</b><br />\n埼玉県越谷市<br />\n7月18日-19日</p>\n<p><a href=\"https://aprilia-japan.com/news/2020/06/23/aprilia-back-to-ride-%e5%ba%97%e9%a0%ad%e8%a9%a6%e4%b9%97%e4%bc%9a%e9%96%8b%e5%82%ac/\" target=\"_blank\" rel=\"noopener \">→詳細はこちら</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"https://www.piaggio.co.jp/\" target=\"_blank\" rel=\"noopener\">ピアッジオグループジャパン</a> ]</p>\n",
+      "post_title": "モト・グッツイ＆アプリリア、「Back to Rideキャンペーン」店頭試乗会を追加開催",
+      "full_url": "https://st-news.webike.net/2020/06/23/184415/",
+      "post_slug": "%e3%83%a2%e3%83%88%e3%83%bb%e3%82%b0%e3%83%83%e3%83%84%e3%82%a4%ef%bc%86%e3%82%a2%e3%83%97%e3%83%aa%e3%83%aa%e3%82%a2%e3%80%81%e3%80%8cback-to-ride%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc",
+      "config_id": 52,
+      "external_id": 184415,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-23 11:50:28",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:44",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 931,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 968,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:44",
+        "updated_at": "2020-10-07 14:59:44",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 164,
+          "title": "フェア・キャンペーン",
+          "slug": "campaign",
+          "config_id": 52,
+          "parent_id": 160,
+          "external_id": 33,
+          "created_at": "2020-10-07 14:59:02",
+          "updated_at": "2020-10-07 14:59:02",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 968,
+            "category_id": 164,
+            "created_at": "2020-10-07 14:59:44",
+            "updated_at": "2020-10-07 14:59:44"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 160,
+          "title": "業界情報",
+          "slug": "industrial-info",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 11,
+          "created_at": "2020-10-07 14:58:58",
+          "updated_at": "2020-10-07 14:58:58",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 968,
+            "category_id": 160,
+            "created_at": "2020-10-07 14:59:44",
+            "updated_at": "2020-10-07 14:59:44"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 968,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:44",
+            "updated_at": "2020-10-07 14:59:44"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 684,
+          "name": "アプリリア",
+          "slug": "%e3%82%a2%e3%83%97%e3%83%aa%e3%83%aa%e3%82%a2",
+          "external_id": 995,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:45",
+          "updated_at": "2020-10-07 14:59:45",
+          "pivot": {
+            "post_id": 968,
+            "tag_id": 684,
+            "created_at": "2020-10-07 14:59:45",
+            "updated_at": "2020-10-07 14:59:45"
+          }
+        },
+        {
+          "id": 685,
+          "name": "モト・グッツィ",
+          "slug": "%e3%83%a2%e3%83%88%e3%83%bb%e3%82%b0%e3%83%83%e3%83%84%e3%82%a3",
+          "external_id": 1536,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:45",
+          "updated_at": "2020-10-07 14:59:45",
+          "pivot": {
+            "post_id": 968,
+            "tag_id": 685,
+            "created_at": "2020-10-07 14:59:45",
+            "updated_at": "2020-10-07 14:59:45"
+          }
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200624_moriwaki-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184476\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200624_moriwaki-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200624_moriwaki-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200624_moriwaki-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200624_moriwaki.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></p>\n<p id=\"mm_text\">モリワキエンジニアリングは、レブル250用の極太フロントパイプを発売した。メインパイプの外径はノーマルΦ38.1に対し、Φ50.8と圧倒的な太さだ。ステンレスポリッシュとブラックの2種類がラインナップされている。</p>\n<p class=\"well3 text90\">【Webikeショッピング】<br />\n◆<a href=\"https://www.webike.net/sd/24231690/?utm_campaign=newp&#038;utm_medium=referral&#038;utm_source=wnews\" target=\"_blank\" rel=\"noopener\">MORIWAKI ENGINEERING : F／P SUS エキゾーストパイプ　商品ページ</a><br />\n◆<a href=\"https://www.webike.net/md/13877/tab/parts/bm/1003/br/451/?utm_campaign=newp&#038;utm_medium=referral&#038;utm_source=wnews\" target=\"_blank\" rel=\"noopener\">MORIWAKI ENGINEERING : スリップオン　商品ページ</a></p>\n<h2 class=news_headline2>レブル250用フロントパイプ </h2>\n<h3 class=\"mt45 mb10\">ブラック</h3>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09.jpg\" data-rel=\"lightbox-gallery-foCp\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184403\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_09.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n\n        <style type='text/css'>\n            #gallery-1 {\n                margin: auto;\n            }\n            #gallery-1 .gallery-item {\n                float: left;\n                margin-top: 10px;\n                text-align: center;\n                width: 33%;\n            }\n            #gallery-1 img {\n                border: 2px solid #cfcfcf;\n            }\n            #gallery-1 .gallery-caption {\n                margin-left: 0;\n            }\n            /* see gallery_shortcode() in wp-includes/media.php */\n        </style>\n\t\t<div id='gallery-1' class='gallery galleryid-184392 gallery-columns-3 gallery-size-size5'><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_10.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_10-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_11.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_11-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_12.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_12-680x454.jpg\" /></a>\n            </dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_13.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_13-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_14.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_14-680x454.jpg\" /></a>\n            </dt></dl>\n            <br style='clear: both' />\n        </div>\n\n<h3 class=\"mt45 mb10\">ステンレスポリッシュ</h3>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02.jpg\" data-rel=\"lightbox-gallery-foCp\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184396\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_02.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n\n        <style type='text/css'>\n            #gallery-2 {\n                margin: auto;\n            }\n            #gallery-2 .gallery-item {\n                float: left;\n                margin-top: 10px;\n                text-align: center;\n                width: 33%;\n            }\n            #gallery-2 img {\n                border: 2px solid #cfcfcf;\n            }\n            #gallery-2 .gallery-caption {\n                margin-left: 0;\n            }\n            /* see gallery_shortcode() in wp-includes/media.php */\n        </style>\n\t\t<div id='gallery-2' class='gallery galleryid-184392 gallery-columns-3 gallery-size-size5'><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_03.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_03-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_04.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_04-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_05.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_05-680x454.jpg\" /></a>\n            </dt></dl><br style=\"clear: both\" /><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_06.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_06-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_07.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_07-680x454.jpg\" /></a>\n            </dt></dl><dl class='gallery-item'>\n            <dt class='gallery-icon landscape'>\n                <a href=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_08.jpg\"><img src=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_08-680x454.jpg\" /></a>\n            </dt></dl><br style=\"clear: both\" />\n        </div>\n\n<h2 class=news_headline2>製品特徴・特性</h2>\n<h3 class=\"mt45 mb10\">(1)外径</h3>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15.jpg\" data-rel=\"lightbox-gallery-foCp\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184409\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200623_rebelfp_15.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p>メインパイプ外径／Φ50.8<br />\nエンジン出口はノーマルのΦ38.1に対し、Φ50.8で圧倒的に太い！！<br />\nHondaのフラッグシップ「CB1300」のフロントパイプよりも圧倒的に太い！！(是非、比べてみてください)</p>\n<h3 class=\"mt45 mb10\">(2)パワー特性</h3>\n<p>全域でパワーアップ／だから、ツーリングには最適！！<br />\n→モリワキエンジニアリング製NEO CLASSIC SLIP-ONとの組合せで低速から高速までパワーアップして乗りやすくなっています。<br />\nスタンダードはパワーの出方がややピーキーなところがあるのに対し、SLIP-ONとの組合せでフルエキになったことで全域でフラットにパワーが出ている。</p>\n<h3 class=\"mt45 mb10\">(3)音</h3>\n<p>レゾネーターをつくることにより、単気筒ならではの爆裂音を軽減。<br />\n迫力の見た目とは裏腹にマイルドでや心地よい音質に仕上がっています。<br />\nレブルのキャラクターに似合った音質になっています。</p>\n<h3 class=\"mt45 mb10\">＜スペック＞</h3>\n<p>メインパイプ外径：Φ50.8<br />\n材質：ステンレス<br />\n車検：車検対応／政府認証<br />\nインジェクション：純正状態<br />\nエンジン仕様：純正状態<br />\nオイル交換：○<br />\nオイルフィルター交換：○<br />\nセンタースタンド：-<br />\nサイレンサー適合可</p>\n<p class=\"well3 text90\">【Webikeショッピング】<br />\n◆<a href=\"https://www.webike.net/sd/24231690/?utm_campaign=newp&#038;utm_medium=referral&#038;utm_source=wnews\" target=\"_blank\" rel=\"noopener\">MORIWAKI ENGINEERING : F／P SUS エキゾーストパイプ　商品ページ</a><br />\n◆<a href=\"https://www.webike.net/md/13877/tab/parts/bm/1003/br/451/?utm_campaign=newp&#038;utm_medium=referral&#038;utm_source=wnews\" target=\"_blank\" rel=\"noopener\">MORIWAKI ENGINEERING : スリップオン　商品ページ</a></p>\n<p class=\"well3 text90\">【ウェビック バイク選び】<br />\n■<a href=\"https://moto.webike.net/HONDA/126_250/Rebel_250/\" target=\"_blank\" rel=\"noopener noreferrer\">【レブル 250】の新車・中古車を見る</a><br />\n■<a href=\"https://moto.webike.net/HONDA/126_250/REBEL/\" target=\"_blank\" rel=\"noopener noreferrer\">【レブル(-1999)】の新車・中古車を見る</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"http://www.moriwaki.co.jp/\" target=\"_blank\" rel=\"noopener\">モリワキエンジニアリング</a> ]</p>\n",
+      "post_title": "【新製品】モリワキから大人気のレブル250用 迫力の極太フロントパイプが登場！",
+      "full_url": "https://st-news.webike.net/2020/06/23/184392/",
+      "post_slug": "%e3%80%90%e6%96%b0%e8%a3%bd%e5%93%81%e3%80%91%e3%83%a2%e3%83%aa%e3%83%af%e3%82%ad%e3%81%8b%e3%82%89%e5%a4%a7%e4%ba%ba%e6%b0%97%e3%81%ae%e3%83%ac%e3%83%96%e3%83%ab250%e7%94%a8-%e8%bf%ab%e5%8a%9b",
+      "config_id": 52,
+      "external_id": 184392,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-23 11:20:31",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:46",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 932,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 969,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:46",
+        "updated_at": "2020-10-07 14:59:46",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 176,
+          "title": "新製品",
+          "slug": "product",
+          "config_id": 52,
+          "parent_id": 174,
+          "external_id": 19,
+          "created_at": "2020-10-07 14:59:14",
+          "updated_at": "2020-10-07 14:59:14",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 969,
+            "category_id": 176,
+            "created_at": "2020-10-07 14:59:46",
+            "updated_at": "2020-10-07 14:59:46"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 174,
+          "title": "新製品・新サービス",
+          "slug": "newproduct-service",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 748,
+          "created_at": "2020-10-07 14:59:13",
+          "updated_at": "2020-10-07 14:59:13",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 969,
+            "category_id": 174,
+            "created_at": "2020-10-07 14:59:46",
+            "updated_at": "2020-10-07 14:59:46"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 969,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:46",
+            "updated_at": "2020-10-07 14:59:46"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 682,
+          "name": "ホンダ",
+          "slug": "%e3%83%9b%e3%83%b3%e3%83%80",
+          "external_id": 983,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:36",
+          "updated_at": "2020-10-07 14:59:36",
+          "pivot": {
+            "post_id": 969,
+            "tag_id": 682,
+            "created_at": "2020-10-07 14:59:47",
+            "updated_at": "2020-10-07 14:59:47"
+          }
+        },
+        {
+          "id": 686,
+          "name": "レブル 250",
+          "slug": "%e3%83%ac%e3%83%96%e3%83%ab-250",
+          "external_id": 1698,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:47",
+          "updated_at": "2020-10-07 14:59:47",
+          "pivot": {
+            "post_id": 969,
+            "tag_id": 686,
+            "created_at": "2020-10-07 14:59:47",
+            "updated_at": "2020-10-07 14:59:47"
+          }
+        },
+        {
+          "id": 687,
+          "name": "レブル(-1999)",
+          "slug": "%e3%83%ac%e3%83%96%e3%83%ab-1999",
+          "external_id": 1815,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:47",
+          "updated_at": "2020-10-07 14:59:47",
+          "pivot": {
+            "post_id": 969,
+            "tag_id": 687,
+            "created_at": "2020-10-07 14:59:47",
+            "updated_at": "2020-10-07 14:59:47"
+          }
+        }
+      ]
+    },
+    {
+      "id": 971,
+      "post_content": "<p style=\"text-align: right;\">【ケニー佐川：Webikeニュース編集長】</p>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200622_01.jpg\" data-rel=\"lightbox-gallery-DDlE\" title=\"\"><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200622_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184359\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200622_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200622_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200622_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200622_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a><span class=\"text80\" style=\"color:#6E6E6E;\">※画像はイメージです。</span></p>\n<h2 class=\"news_headline2 mt75\">右カーブで一体何が起きたのか</h2>\n<p>バイクによる死亡事故が今週も相次いでいる。<br />\n6月14日（日）の午後、北海道小樽市の国道393号線、通称・毛無峠周辺でバイクが転倒する事故があり、運転していた女性（47）が搬送先の病院で死亡した。女性はツーリング中に転倒、道路脇のガードロープに衝突し全身を強く打ったと見られる。現場は片側1車線のカーブで路面は乾いていた。警察はライダーが運転操作を誤ったとみて事故の原因を調べている、という第一報だった。</p>\n<p id=\"mm_text\">ニュース映像からは、現場は緩やかな右カーブで事故を起こしたバイクは大型スーパースポーツモデル。車体の左側面が大破していることから、右カーブを曲がり切れず路肩にはみ出してガードロープに接触後、反対車線へ弾き飛ばされたように見える。フルフェイスヘルメットやチェストプロテクターなど残された遺品が、安全意識の高いライダーだったことをうかがわせた。</p>\n<p>ネット上での記事への書き込みコメントなどから、現場は対向車線から右折して入るパーキングがある場所で以前から事故が多く発生していたようだ。もしかしたら、「右折車を避けようとしたのでは」という憶測が飛び交った一方で、現場近くにいたというドライバーなどから、「けっこう飛ばしているツーリング集団に見えた」という声も見られるなど、一時情報が錯そうしていた。</p>\n<h2 class=\"news_headline2 mt75\">路面に空いた数センチの穴が原因か!?</h2>\n<p>一体そのとき何が起きたのか、真実を知りたいと思っていた矢先に続報が飛び込んできた。<br />\nSTV札幌テレビが伝えたところによると、亡くなった女性は仲間十数人とのツーリング中だったそうだ。直後を走っていた男性の話では「女性は道路上にあった穴に前輪がはまり、ハンドルがとられたように見えた」とのこと。そこからハンドルがふられてコントロール不能になったようだ。路面には深さ数センチの穴が2か所あったという。女性はツーリング経験も豊富で現場も走り慣れた道だったようだ。警察では引き続き道路にあいた穴と事故との関連を調査中である。出典：<a href=\"https://www.stv.jp/news/stvnews/u3f86t00000828vh.html\" target=\"_blank\" rel=\"noopener\">STV札幌テレビ</a></p>\n<h2 class=\"news_headline2 mt75\">バイクにもドライブレコーダーが必要だ</h2>\n<p>楽しいはずのツーリングが、このような悲劇的な結末で終わるとは、本人もさぞかし無念だったに違いない。自分もひとりのライダーとして、やり場のない悲しみと悔しさを覚えるとともに、前ぶれもなく襲いかかる交通事故の怖さに身が凍る思いがする。</p>\n<p>こうした悲惨な事故が二度と起きないようにするためには、どうしたらいいのか。<br />\n振り返ってみると、今回の事故にはいくつかの教訓が見い出せる。まず、見通しの悪いコーナーで対向車線から右折でパーキングに入ることを禁止すべきだ。標識や路面標示を設け、右折できないようセンターライン上にプラスチック製の柔らかいポールを立てれば済むことだろう。</p>\n<p>また、路上の穴など2輪が走行するのに危険を伴う路面があるならば、速やかに補修すべきだ。4輪にとっては何でもないアスファルトの剥がれや凸凹や砂利などでも、2輪にとっては致命的な事故につながる可能性もあるのだ。</p>\n<p>さらに、今回の事故原因がまだ明らかになっていない段階での第一報では、バイク死亡事故では「死人に口なし」になるケースも少なくなく、それを防ぐには「バイクにもドライブレコーダーが必要」との意見が多く見られた。</p>\n<p>最近では「あおり運転」よる被害も増加していることを考えると、もはやドライブレコーダーは必須であり、できることならメーカー出荷段階で標準装備とするか、もしくは店頭オプションで装着できるものであれば尚良いと思う。技術的にも難しくはないだろうし、それで少々コストがかかったとしても文句を言うライダーは少ないのでは。自分で運転を誤った自損事故なのか、あるいは、他の車両や歩行者、動物などが絡む二次的な要因があったのかなど、事実を見極めるためにも必要だと思う。</p>\n<h2 class=\"news_headline2 mt75\">最も大事なのは自制心と危険予知</h2>\n<p>そして、最も大事なこと。それは自制心と危険予知だ。急な右折車があっても、路面が荒れていたとしても、そこにある危険を予測して速度を十分に落としていれば、事故は避けられる可能性が高いし、万が一の場合でもダメージを最小限に抑えることもできるだろう。</p>\n<p>今月6月19日から都道府県境をまたぐ移動が全面的に解除された。ぜひ細心の注意をして安全運転を心がけてほしい。</p>\n<p class=\"well3 text90\">【併せて読みたい】<br />◆<a href=\"https://www.webike.net/magazine/must-buy/must-buy-electronic_parts/32617\" target=\"_blank\" rel=\"noopener\">Webikeイチオシのおすすめドライブレコーダー4選をご紹介！</a></p>\n",
+      "post_title": "北海道のバイク死亡事故で思ったドライブレコーダーの必要性とは",
+      "full_url": "https://st-news.webike.net/2020/06/22/184357/",
+      "post_slug": "%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e3%83%90%e3%82%a4%e3%82%af%e6%ad%bb%e4%ba%a1%e4%ba%8b%e6%95%85%e3%81%a7%e6%80%9d%e3%81%a3%e3%81%9f%e3%83%89%e3%83%a9%e3%82%a4%e3%83%96%e3%83%ac%e3%82%b3%e3%83%bc",
+      "config_id": 52,
+      "external_id": 184357,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-22 11:50:27",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:49",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 934,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 971,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:49",
+        "updated_at": "2020-10-07 14:59:49",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 156,
+          "title": "コラム",
+          "slug": "column",
+          "config_id": 52,
+          "parent_id": 155,
+          "external_id": 13,
+          "created_at": "2020-10-07 14:58:54",
+          "updated_at": "2020-10-07 14:58:54",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 971,
+            "category_id": 156,
+            "created_at": "2020-10-07 14:59:49",
+            "updated_at": "2020-10-07 14:59:49"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 155,
+          "title": "トピックス&amp;コラム",
+          "slug": "topics-column",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 2,
+          "created_at": "2020-10-07 14:58:54",
+          "updated_at": "2020-10-07 14:58:54",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 971,
+            "category_id": 155,
+            "created_at": "2020-10-07 14:59:49",
+            "updated_at": "2020-10-07 14:59:49"
+          },
+          "source_category": [
+            
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 972,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2018/06/noimage-680x454.jpg\" alt=\"ウェビックバイクニュースはバイクに関するあらゆる情報を発信します\" width=\"680\" height=\"454\" class=\"size-size5 wp-image-134750\" srcset=\"https://st-news.webike.net/wp-content/uploads/2018/06/noimage.jpg 680w, https://st-news.webike.net/wp-content/uploads/2018/06/noimage-300x200.jpg 300w\" sizes=\"(max-width: 680px) 100vw, 680px\" /> </p>\n<p id=\"mm_text\">東日本高速道路株式会社、中日本高速道路株式会社、西日本高速道路株式会社、本州四国連絡高速道路株式会社および宮城県道路公社では、新型コロナウイルス感染症の感染拡大防止を図るための国土交通省からの依頼を踏まえ、6月14日（日）まで休日割引を適用しないこととしていたが、6月20日（土）から休日割引の適用を再開することを発表した。</p>\n<p>以下プレスリリースより</p>\n<hr style=\"border:none; border-top:dotted 1px #333333;\">\n<p>お客さまには、ご不便とご迷惑をおかけしましたが、新型コロナウイルス感染症の感染拡大防止を図るための取組みへのご理解とご協力をいただきまして誠にありがとうございました。</p>\n<p>引き続き、お客さまの安全・安心を確保するため、料金所やSA・PAで対応する際のマスク着用、SA・PAなどでの換気などの感染予防対策に取り組んでまいりますので、お客さまにおかれましても、SA・PAなどにおけるマスクの着用・3密（密閉・密集・密接）を避ける等のコロナ時代の新たな利用スタイルの実践に、ご協力いただきますようお願いします。</p>\n<h2 class=\"news_headline2 mt75\">休日割引の適用再開について</h2>\n<p>休日割引の適用除外は6月14日（日）で終了とし、6月20日（土）から休日割引の適用を再開します。</p>\n<p><a href=\"https://www.e-nexco.co.jp/news/activity/2020/0619/00003871.html\" target=\"_blank\" rel=\"noopener\">→その他詳細は公式サイトへ</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"https://www.e-nexco.co.jp/\" target=\"_blank\" rel=\"noopener\">NEXCO東日本</a> ]</p>\n",
+      "post_title": "6月20日（土）から主要高速道路における休日割引の適用が再開",
+      "full_url": "https://st-news.webike.net/2020/06/22/184382/",
+      "post_slug": "6%e6%9c%8820%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e3%81%8b%e3%82%89%e4%b8%bb%e8%a6%81%e9%ab%98%e9%80%9f%e9%81%93%e8%b7%af%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e4%bc%91%e6%97%a5%e5%89%b2%e5%bc%95",
+      "config_id": 52,
+      "external_id": 184382,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-22 11:45:28",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:50",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 935,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 972,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:50",
+        "updated_at": "2020-10-07 14:59:50",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 169,
+          "title": "交通",
+          "slug": "traffic-information",
+          "config_id": 52,
+          "parent_id": 160,
+          "external_id": 31,
+          "created_at": "2020-10-07 14:59:07",
+          "updated_at": "2020-10-07 14:59:07",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 972,
+            "category_id": 169,
+            "created_at": "2020-10-07 14:59:50",
+            "updated_at": "2020-10-07 14:59:50"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 160,
+          "title": "業界情報",
+          "slug": "industrial-info",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 11,
+          "created_at": "2020-10-07 14:58:58",
+          "updated_at": "2020-10-07 14:58:58",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 972,
+            "category_id": 160,
+            "created_at": "2020-10-07 14:59:50",
+            "updated_at": "2020-10-07 14:59:50"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 972,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:50",
+            "updated_at": "2020-10-07 14:59:50"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        
+      ]
+    },
+    {
+      "id": 973,
+      "post_content": "<p style=\"text-align: right;\">【ケニー佐川：Webikeニュース編集長】</p>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01.jpg\" data-rel=\"lightbox-gallery-4Vhd\" title=\"\"><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184310\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<h2 class=news_headline2>歴史に埋もれた「失われた技術」</h2>\n<p id=\"mm_text\">ロストテクノロジー（失われた技術）というものがある。と聞くと、SF小説に出てくる超古代文明のことかと思う人もいるかもしれないがちょっと違う。ロストテクノロジーとは過去に実存した優れた技術のことで、何らかの理由により後の世に伝えられず失われてしまったものだ。</p>\n<p>たとえば、戦艦「大和」の分厚い装甲をリベット留めする技術や、電子部品を一切使わない昔の機械式計算機など。それらは、時代とともに無用の長物になってしまったり、その後に登場した新素材やコンピュータにとって代わられ、現在ではその製造技術を継ぐ者もなく再現は不可能とさえ言われる。</p>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02.jpg\" data-rel=\"lightbox-gallery-4Vhd\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184311\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_02.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p>前置きが長くなったが、そんな思いが頭をよぎった出来事があった。先日、レッドバロン主催のメディア向け中古車試乗会があって参加してきた。「譲渡車検」という同社独自の厳しい安全基準できっちりと検査・整備された中古車を乗り比べる機会があったのだ。ある意味で新車当時のコンディションに限りなく近いと言える中古車だ。</p>\n<h2 class=news_headline2>30年以上前に存在した直4スーパースポーツ</h2>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03.jpg\" data-rel=\"lightbox-gallery-4Vhd\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184312\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_03.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p>さて、ここからが本題なのだが、何台か試乗した中で特に印象に残ったのがCBR250R（MC19）だった。水冷並列4気筒DOHC4バルブ249ccエンジンは最高出力45ps/15,000rpmを実現。今ではMotoGPマシンにしか使われていない高価なカムギアトレーン方式（カムシャフトを通常のチェーンでなく歯車で動かすハイメカ）に、高剛性5角断面アルミツインスパーフレーム＆アルミスイングアームとプロリンク式リヤサスペンションを採用……。<br />\nスペックだけを聞いていると「え、ホンダから新型250ccスーパースポーツが出たの!?」と勘違いしてしまいそうなぐらいの凄さだが、実は1988年製。今から30年以上も昔のマシンなのだ。</p>\n<p>知っている人は知ってると思うが、今も4スト250cc史上最強との呼び声が高いCB250RR（MC22）の先代に当たるマシンだ。主な違いはフレーム構造とフロントブレーキがRRはダブルディスクになっていることぐらい。エンジン性能などは同等で特にこの2型はレーサーレプリカらしい見た目もほぼ共通である。<br />\nちなみにRはシングルディスクだが、これはバネ下重量低減とメンテナンス性向上などの利点も多く、けっしてダブルディスクに劣っていないことは、現代の250ccスポーツが皆シングルディスクであることを考えれば納得できるはず。その意味では、見栄えより実益をとった名車とも言えるかも。</p>\n<h2 class=news_headline2>F1テクノロジーを搭載した2万回転の咆哮</h2>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05.jpg\" data-rel=\"lightbox-gallery-4Vhd\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184314\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_05.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p>乗り味もまた独特で、現代の250ccスポーツとはまったく異なるものだった。まずシートの低さに驚く。データではCBR250R（MC19）のシート高は720mmで、現行モデルのCBR250RR（MC51）の790mmに比べてもその低さは歴然だ。<br />\n車体も当時のモデルはスリムかつコンパクトで、4気筒にもかかわらず車重も154kgと同比較で10kg近く軽い。</p>\n<p>つまり、足着き性に優れ、取り回しも楽ということ。当時のホンダの製品リリースにも「スポーティさと扱い易さを両立させたスーパースポーツ」とコンセプトを記してある。そして、ピークパワーは45psと現在クラス最強を誇るCBR250RRの38psを大きく突き放す。F1マシンのテクノロジーが投入されたと噂された、2万回転近くも回る超高性能な直4エンジンの高周波サウンドは、まさに昇天する気持ち良さだ。</p>\n<h2 class=news_headline2>現代のマシンとは異なる走りや楽しさがある</h2>\n<p><a href=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04.jpg\" data-rel=\"lightbox-gallery-4Vhd\" title=\"\"><img src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184313\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sagawa_04.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></a></p>\n<p>走り方も今のマシンとは異なっている。サーキットでの試乗だったが、サスペンションはソフトでブレーキも甘めなのでコーナリングでは突っ込まず、立ち上がり重視のスローイン・ファストアウトを守った伝統的な走り方に自然となる。かといって遅いわけではなく、パワーがあって車体も軽いので、スロットル全開にできるストレートでの速さは圧倒的だ。<br />\nまた、シートが低くマシンの重心も低いので、コーナーの切り返しなども缶ジュースを転がすようにコロッと寝かす感じ。これも慣れると意外とラクで省エネな走りが楽しく、地面も近いので安心感がある。</p>\n<p>一方、現代の250ccスポーツはもっとフロント荷重が高く重心も高めで、ガチッとした車体と足まわりによって急減速して、バタッと倒し込んで、クルッと旋回するような走り方になる。運動性能はもちろん進化しているが、一方でマシンが発する声というか、限界がつかみづらい部分もある。<br />\n昔のマシンはサスペンションもフワフワ、タイヤもズルズルなので、常に探りながらコーナリングしている感じがあった。30年以上も前と今のマシンではいろいろな意味で比較にならないとは思うが、実際に乗り比べてみると、それぞれに個性や良さがあることが分かってくる。</p>\n<h2 class=news_headline2>ワクワクする感じ、そこにヒントがあるかも</h2>\n<p>2輪マーケットの変容や排ガス規制その他もろもろの理由もあるし、本当の意味でのロストテクノロジーではないことは承知の上。各メーカーとも「温故知新」をテーマとした研究開発に余念はないと思っているが、あらためて昔のマシンに投入された優れたテクノロジーや“乗り味”について、掘り起こしてみると面白いと思う。</p>\n<p>何故なら、昔のマシンに乗ってみると不思議と新鮮でワクワクするから。そこに何かのヒントがあると思うからだ。</p>\n<p class=\"well3 text90\">【ウェビック バイク選び】<br />\n■<a href=\"https://moto.webike.net/HONDA/126_250/CBR250R_MC17_MC19/\" target=\"_blank\" rel=\"noopener noreferrer\">【CBR250R】の新車・中古車を見る</a><br />\n■<a href=\"https://moto.webike.net/series/HONDA/h00001/list/?moc=6428_6278_6263_6225_6143_279_216_166_13951_13760_13681_12172_10297&#038;ponly=1&#038;pdx=8\" target=\"_blank\" rel=\"noopener noreferrer\">【CBR250シリーズ】の新車・中古車を見る</a></p>\n",
+      "post_title": "それはロストテクノロジーなのか!?　CBR250R（昔の）に乗って感じたこと",
+      "full_url": "https://st-news.webike.net/2020/06/19/184305/",
+      "post_slug": "%e3%81%9d%e3%82%8c%e3%81%af%e3%83%ad%e3%82%b9%e3%83%88%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%aa%e3%81%ae%e3%81%8b%e3%80%80cbr250r%ef%bc%88%e6%98%94%e3%81%ae%ef%bc%89%e3%81%ab",
+      "config_id": 52,
+      "external_id": 184305,
+      "author_id": 11,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-19 14:50:35",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:34",
+      "updated_at": "2020-10-07 14:59:51",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 936,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 973,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:51",
+        "updated_at": "2020-10-07 14:59:51",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 162,
+          "title": "トピックス",
+          "slug": "topics",
+          "config_id": 52,
+          "parent_id": 155,
+          "external_id": 4,
+          "created_at": "2020-10-07 14:58:59",
+          "updated_at": "2020-10-07 14:58:59",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 973,
+            "category_id": 162,
+            "created_at": "2020-10-07 14:59:51",
+            "updated_at": "2020-10-07 14:59:51"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 155,
+          "title": "トピックス&amp;コラム",
+          "slug": "topics-column",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 2,
+          "created_at": "2020-10-07 14:58:54",
+          "updated_at": "2020-10-07 14:58:54",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 973,
+            "category_id": 155,
+            "created_at": "2020-10-07 14:59:51",
+            "updated_at": "2020-10-07 14:59:51"
+          },
+          "source_category": [
+            
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 689,
+          "name": "CBR250R (MC17/19)",
+          "slug": "cbr250r-mc17-19",
+          "external_id": 1813,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:52",
+          "updated_at": "2020-10-07 14:59:52",
+          "pivot": {
+            "post_id": 973,
+            "tag_id": 689,
+            "created_at": "2020-10-07 14:59:52",
+            "updated_at": "2020-10-07 14:59:52"
+          }
+        },
+        {
+          "id": 682,
+          "name": "ホンダ",
+          "slug": "%e3%83%9b%e3%83%b3%e3%83%80",
+          "external_id": 983,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:36",
+          "updated_at": "2020-10-07 14:59:36",
+          "pivot": {
+            "post_id": 973,
+            "tag_id": 682,
+            "created_at": "2020-10-07 14:59:52",
+            "updated_at": "2020-10-07 14:59:52"
+          }
+        }
+      ]
+    },
+    {
+      "id": 974,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_motosq_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184299\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_motosq_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_motosq_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_motosq_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_motosq_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></p>\n<p>モトスクエア東京は、7月4日（土）・5日（日）に「MVアグスタ＆インディアン出張試乗会」をライコランドTOKYOBAY東雲店で開催する。</p>\n<p id=\"mm_text\">マニアックな輸入車の中でも、ひと際個性的なMVアグスタ、そしてインディアンモーターサイクル。その代表的なモデル、ドラッグスター800RRやFTR1200Sに先導付きで体験試乗できる。参加は無料。申込は当日、会場で先着順に受付となる。</p>\n<h2 class=news_headline2>MVアグスタ＆インディアン出張試乗会</h2>\n<h3 class=\"mt45 mb10\">■開催日</h3>\n<p>7月4日(土)・ 5日(日) </p>\n<h3 class=\"mt45 mb10\">■会場</h3>\n<p><a href=\"http://www.ricoland.co.jp/shopinfo/shinonome/\" target=\"_blank\" rel=\"noopener \">ライコランド TOKYO BAY東雲店</a></p>\n<h3 class=\"mt45 mb10\">■開催時間</h3>\n<p>10:00～16:00</p>\n<h3 class=\"mt45 mb10\">■予定試乗車</h3>\n<p>＜MVアグスタ＞ ドラッグスター800RR　<br />\n＜インディアン＞ FTR1200S / スカウト　<br />\n＜SWM＞ 125　他</p>\n<h3 class=\"mt45 mb10\">【お願い】</h3>\n<p>※ヘルメット、グローブ等ライディングギアのお貸出しは出来かねます。ご持参をお願いいたします<br />\n※当日の受付は会場にてウェブ受付となります。スマホと免許証をご用意ください<br />\n※受付時は、なるべくマスクのご着用をお願いいたします</p>\n<p><a href=\"https://motosquare.jp/mv-agusta/2020/06/74sat-5sun.php\" target=\"_blank\" rel=\"noopener \">→MVアグスタ＆インディアン出張試乗会イベントページ</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"http://motosquare.jp/\" target=\"_blank\">Moto Square</a> ]</p>\n",
+      "post_title": "「MVアグスタ＆インディアン出張試乗会」が7/4(土)・7/5(日)にライコランドTOKYOBAY東雲店で開催",
+      "full_url": "https://st-news.webike.net/2020/06/19/184296/",
+      "post_slug": "%e3%80%8cmv%e3%82%a2%e3%82%b0%e3%82%b9%e3%82%bf%ef%bc%86%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3%e5%87%ba%e5%bc%b5%e8%a9%a6%e4%b9%97%e4%bc%9a%e3%80%8d%e3%81%8c7-4%e5%9c%9f%e3%83%bb7-5",
+      "config_id": 52,
+      "external_id": 184296,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-19 13:30:15",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:39",
+      "updated_at": "2020-10-07 14:59:52",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 937,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 974,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:52",
+        "updated_at": "2020-10-07 14:59:52",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 146,
+          "title": "イベント",
+          "slug": "event",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 5,
+          "created_at": "2020-10-07 14:58:46",
+          "updated_at": "2020-10-07 14:58:46",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 974,
+            "category_id": 146,
+            "created_at": "2020-10-07 14:59:52",
+            "updated_at": "2020-10-07 14:59:52"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 974,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:52",
+            "updated_at": "2020-10-07 14:59:52"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "title": "試乗会",
+          "slug": "testride",
+          "config_id": 52,
+          "parent_id": 146,
+          "external_id": 21,
+          "created_at": "2020-10-07 14:59:22",
+          "updated_at": "2020-10-07 14:59:22",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 974,
+            "category_id": 182,
+            "created_at": "2020-10-07 14:59:52",
+            "updated_at": "2020-10-07 14:59:52"
+          },
+          "source_category": [
+            
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 690,
+          "name": "MVアグスタ",
+          "slug": "mv%e3%82%a2%e3%82%b0%e3%82%b9%e3%82%bf",
+          "external_id": 994,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:53",
+          "updated_at": "2020-10-07 14:59:53",
+          "pivot": {
+            "post_id": 974,
+            "tag_id": 690,
+            "created_at": "2020-10-07 14:59:53",
+            "updated_at": "2020-10-07 14:59:53"
+          }
+        },
+        {
+          "id": 691,
+          "name": "インディアン",
+          "slug": "%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%82%a2%e3%83%b3",
+          "external_id": 1003,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:53",
+          "updated_at": "2020-10-07 14:59:53",
+          "pivot": {
+            "post_id": 974,
+            "tag_id": 691,
+            "created_at": "2020-10-07 14:59:53",
+            "updated_at": "2020-10-07 14:59:53"
+          }
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_new-era_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184294\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_new-era_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_new-era_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_new-era_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_new-era_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /></p>\n<p id=\"mm_text\">ベスパ、モト・グッツィ、アプリリアは、人気のアパレルブランド 「NEW ERA（ニュー エラ）」 とコラボした、新作のベースボールキャップの発売を記念し、ベスパジャパン公式メールマガジン新規登録キャンペーンを実施する。</p>\n<p>キャンペーン期間中に、メールマガジンに新規で登録すると、抽選で5名に新作のNEW ERAキャップがプレゼントされる。</p>\n<h2 class=news_headline2>新作NEW ERA × VESPA/MOTO GUZZI/APRILIA キャップ発売記念メールマガジン新規登録キャンペーン</h2>\n<p>■キャンペーン期間<br />\n2020年6月19日（金）～7月31日（金）23:59まで</p>\n<p>■当選発表<br />\nご当選された方のみに、ご登録いただいたメールアドレス宛にご連絡いたします。</p>\n<p>■注意事項<br />\n※ご登録はお1人様1回までです。また、日本国内にお住まいの方に限らせていただきます。<br />\n※キャップの色はお選びできません。予めご了承ください。<br />\n※キャップはフリーサイズ（調整可能）です。<br />\n※ご当選者様には、ご登録いただいたメールアドレス宛にキャンペーン事務局よりご連絡差し上げます。2020年8月16日(23時59分)までにお返事がいただけない場合は当選の権利が無効となりますのでご注意ください。<br />\n※賞品の発送は8月下旬を予定しております。<br />\n※予告なくキャンペーン内容が変更する場合がございます。</p>\n<p><a href=\"https://vespa-japan.com/news/information/%e6%96%b0%e4%bd%9cnew-era-x-vespa%e3%82%ad%e3%83%a3%e3%83%83%e3%83%97%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3%e6%96%b0%e8%a6%8f%e7%99%bb/\" target=\"_blank\" rel=\"noopener \">→NEW ERA × VESPA キャンペーンページ</a><br />\n<a href=\"https://motoguzzi-japan.com/news/2020/06/19/%e6%96%b0%e4%bd%9cnew-era-x-moto-guzzi-%e3%82%ad%e3%83%a3%e3%83%83%e3%83%97%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3%e6%96%b0%e8%a6%8f/\" target=\"_blank\" rel=\"noopener \">→NEW ERA × MOTO GUZZI キャンペーンページ</a><br />\n<a href=\"https://aprilia-japan.com/news/2020/06/19/%e6%96%b0%e4%bd%9cnew-era-x-aprilia-%e3%82%ad%e3%83%a3%e3%83%83%e3%83%97%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%a1%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3%e6%96%b0%e8%a6%8f/\" target=\"_blank\" rel=\"noopener \">→NEW ERA × APRILIA キャンペーンページ</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"https://www.piaggio.co.jp/\" target=\"_blank\" rel=\"noopener\">ピアッジオグループジャパン</a> ]</p>\n",
+      "post_title": "ベスパ／モト・グッツィ／アプリリア、NEW ERAコラボキャップ発売記念メルマガ新規登録キャンペーンを開催",
+      "full_url": "https://st-news.webike.net/2020/06/19/184292/",
+      "post_slug": "%e3%83%99%e3%82%b9%e3%83%91%ef%bc%8f%e3%83%a2%e3%83%88%e3%83%bb%e3%82%b0%e3%83%83%e3%83%84%e3%82%a3%ef%bc%8f%e3%82%a2%e3%83%97%e3%83%aa%e3%83%aa%e3%82%a2%e3%80%81new-era%e3%82%b3%e3%83%a9%e3%83%9c",
+      "config_id": 52,
+      "external_id": 184292,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-19 11:45:05",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:39",
+      "updated_at": "2020-10-07 14:59:54",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 938,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 975,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:54",
+        "updated_at": "2020-10-07 14:59:54",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 164,
+          "title": "フェア・キャンペーン",
+          "slug": "campaign",
+          "config_id": 52,
+          "parent_id": 160,
+          "external_id": 33,
+          "created_at": "2020-10-07 14:59:02",
+          "updated_at": "2020-10-07 14:59:02",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 975,
+            "category_id": 164,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          },
+          "source_category": [
+            
+          ]
+        },
+        {
+          "id": 160,
+          "title": "業界情報",
+          "slug": "industrial-info",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 11,
+          "created_at": "2020-10-07 14:58:58",
+          "updated_at": "2020-10-07 14:58:58",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 975,
+            "category_id": 160,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 160,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "title": "編集部おすすめ",
+          "slug": "pickup",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 14,
+          "created_at": "2020-10-07 14:59:21",
+          "updated_at": "2020-10-07 14:59:21",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 975,
+            "category_id": 181,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          },
+          "source_category": [
+            {
+              "id": 2,
+              "title": "GIÁ XE MÁY",
+              "slug": "gia-xe-may",
+              "config_id": 50,
+              "parent_id": 0,
+              "external_id": 1092,
+              "created_at": "2020-10-07 10:13:46",
+              "updated_at": "2020-10-07 10:13:46",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 2,
+                "created_at": "2020-10-22 11:52:58",
+                "updated_at": "2020-10-22 11:52:58"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Template",
+              "slug": "template-2",
+              "config_id": 51,
+              "parent_id": 0,
+              "external_id": 49,
+              "created_at": "2020-10-07 11:00:14",
+              "updated_at": "2020-10-07 11:00:14",
+              "deleted_at": null,
+              "pivot": {
+                "source_category_id": 181,
+                "target_category_id": 14,
+                "created_at": "2020-10-22 16:20:14",
+                "updated_at": "2020-10-22 16:20:14"
+              }
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 684,
+          "name": "アプリリア",
+          "slug": "%e3%82%a2%e3%83%97%e3%83%aa%e3%83%aa%e3%82%a2",
+          "external_id": 995,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:45",
+          "updated_at": "2020-10-07 14:59:45",
+          "pivot": {
+            "post_id": 975,
+            "tag_id": 684,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          }
+        },
+        {
+          "id": 692,
+          "name": "ベスパ",
+          "slug": "%e3%83%99%e3%82%b9%e3%83%91",
+          "external_id": 1005,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:54",
+          "updated_at": "2020-10-07 14:59:54",
+          "pivot": {
+            "post_id": 975,
+            "tag_id": 692,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          }
+        },
+        {
+          "id": 685,
+          "name": "モト・グッツィ",
+          "slug": "%e3%83%a2%e3%83%88%e3%83%bb%e3%82%b0%e3%83%83%e3%83%84%e3%82%a3",
+          "external_id": 1536,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:45",
+          "updated_at": "2020-10-07 14:59:45",
+          "pivot": {
+            "post_id": 975,
+            "tag_id": 685,
+            "created_at": "2020-10-07 14:59:54",
+            "updated_at": "2020-10-07 14:59:54"
+          }
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "post_content": "<p><img id=\"mm_top_img\" src=\"https://news.webike.net/wp-content/uploads/2020/06/200619_sc-ninja_01-680x454.jpg\" alt=\"\" width=\"680\" height=\"454\" class=\"alignnone size-size5 wp-image-184290\" srcset=\"https://st-news.webike.net/wp-content/uploads/2020/06/200619_sc-ninja_01-680x454.jpg 680w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sc-ninja_01-300x200.jpg 300w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sc-ninja_01-768x512.jpg 768w, https://st-news.webike.net/wp-content/uploads/2020/06/200619_sc-ninja_01.jpg 850w\" sizes=\"(max-width: 680px) 100vw, 680px\" /><br />\n※参考画像</p>\n<p><strong>■サービスキャンペーン対策開始日</strong><br />\n令和2年6月中旬</p>\n<p><strong>■届出者の氏名又は名称 </strong><br />\n川崎重工業株式会社</p>\n<p><strong>■問い合わせ先</strong><br />\nカワサキモータースジャパン<br />\nお客様相談室 TEL 0120-400-819</p>\n<p><strong>■不具合の内容</strong></p>\n<p id=\"mm_text\">フロント車速センサに接続されているハーネスにおいて、図面指示が不適切なため、配策ばらつきによりハンドルを大きく右に切った場合、ハーネスがコネクタ付近で強く屈曲し、ハーネスに負荷がかかるものがある。そのため、そのまま使用を続けると、当該ハーネスが断線し、ABS警告灯が点灯するとともにABS機能が停止するおそれがある。</p>\n<p><strong>■改善の内容</strong><br />\n全車両、当該ハーネスを補修用ハーネスを用いて修理し、クランプを追加して適正な位置に配策する。</p>\n<p><strong>■自動車使用者等に周知させるための措置</strong><br />\n使用者にダイレクトメール等にて通知する。</p>\n<p><strong>■サービスキャンペーン対象車の車台番号(シリアル番号)の範囲及び製作期間・台数</strong><br />\n・通称名：｢Ninja250｣<br />\n　　型式：2BK-EX250P<br />\n　　車台番号：EX250P-A00121 から EX250P-A15690<br />\n　　製作期間：平成30年1月10日 から 平成30年12月10日<br />\n　　対象台数：3,640台</p>\n<p>・通称名：｢Ninja400｣<br />\n　　型式：2BL-EX400G<br />\n　　車台番号：EX400G-A00121 から EX400G-A36556<br />\n　　製作期間：平成30年1月10日 から 平成31年2月25日<br />\n　　対象台数：4,641台</p>\n<p><strong>■合計</strong><br />\n・製作期間の全体の範囲:平成30年1月10日 から 平成31年2月25日<br />\n・計8,281台</p>\n<hr style=\"border:none; border-top:dotted 1px #333333;\">\n<p><strong>■不具合の内容</strong><br />\nエレクトロニックコントロールユニット（ECU）において、ECU及びリレーボックスの接続部の防水性が不十分なため、ハーネスから水が浸入し、ECUおよびリレーボックスの接続部が腐食するものがある。そのため、アイドリングが不安定になり、最悪の場合、アイドリング中にエンジンが停止するおそれがある。</p>\n<p><strong>■改善の内容</strong><br />\n全車両、ECUおよびリレーボックスの接続部を点検し、腐食が認められる場合は、ハーネス、ECUおよびリレーボックスを新品に交換し接続部にグリスを塗布する。なお、腐食が認められない場合には接続部にグリスを塗布する。</p>\n<p><strong>■自動車使用者等に周知させるための措置</strong><br />\n使用者にダイレクトメール等で通知する。</p>\n<p><strong>■サービスキャンペーン対象車の車台番号(シリアル番号)の範囲及び製作期間・台数</strong><br />\n・通称名：｢Ninja250｣<br />\n　　型式：2BK-EX250<br />\n　　車台番号：EX250P-A00121 から EX250P-A13225<br />\n　　製作期間：平成30年1月10日 から 平成30年7月30日<br />\n　　対象台数：2,877台</p>\n<p>・通称名：｢Ninja400｣<br />\n　　型式：2BL-EX400G<br />\n　　車台番号：EX400G-A00121 から EX400G-A20212<br />\n　　製作期間：平成30年1月10日 から 平成30年7月23日<br />\n　　対象台数：2,401台</p>\n<p><strong>■合計</strong><br />\n・製作期間の全体の範囲：平成30年1月10日 から 平成30年7月30日<br />\n・計5,278台</p>\n<p><strong>【注意事項】</strong><br />\n・対象車の車台番号の範囲には、対象とならない車両も含まれている場合があります。</p>\n<p><a href=\"http://www.kawasaki-cp.khi.co.jp/recall/20-06a/index.html\" target=\"_blank\"  rel=\"nofollow\">→全文を読む</a></p>\n<p style=\"text-align: right;\">情報提供元 [ <a href=\"https://www.kawasaki-motors.com/\" target=\"_blank\" rel=\"noopener\">カワサキモータースジャパン</a> ]</p>\n<p><a href=\"http://imp.webike.net/help/mybike/\"><img src=\"https://news.webike.net/wp-content/uploads/2016/05/20150605_mybike_impcamp_800_250-680x213.jpg\" alt=\"20150605_mybike_impcamp_800_250\" width=\"650\" height=\"200\" class=\"alignnone size-size5 wp-image-52649\" /></a></p>\n<div style=\"padding: 10px; margin-bottom: 30px; border: 1px dotted #333333; border-radius: 5px;\">\n中古車や、譲渡で入手したバイクだと、サービスキャンペーンの情報が届かないことも。WebikeではMYバイクへの登録で、サービスキャンペーン情報をメールにてお届けします！<br />\n　※アカウントの登録が必要です<br />\n◆<a href=\"http://imp.webike.net/help/mybike/\" target=\"_blank\">Webikeコミュニティ　MYバイク登録方法</a>\n</div>\n",
+      "post_title": "カワサキ「Ninja250/400」にサービスキャンペーン　ABS機能が停止するおそれ、アイドリング中にエンジンが停止するおそれ",
+      "full_url": "https://st-news.webike.net/2020/06/19/184288/",
+      "post_slug": "%e3%82%ab%e3%83%af%e3%82%b5%e3%82%ad%e3%80%8cninja250-400%e3%80%8d%e3%81%ab%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e3%80%80abs%e6%a9%9f%e8%83%bd",
+      "config_id": 52,
+      "external_id": 184288,
+      "author_id": 9,
+      "is_recommend": 0,
+      "post_type": null,
+      "post_status": "publish",
+      "in_queue": 0,
+      "website_created_at": "2020-06-19 11:30:48",
+      "approved_by": null,
+      "approved_at": null,
+      "released_by": null,
+      "released_at": null,
+      "created_by": null,
+      "updated_by": null,
+      "created_at": "2020-10-07 14:59:39",
+      "updated_at": "2020-10-07 14:59:55",
+      "deleted_at": null,
+      "config": {
+        "id": 52,
+        "type_id": 1,
+        "language_id": 6,
+        "status": 1,
+        "reference_code": "CM5f7d5b0752f1c",
+        "name": "News JP (staging)",
+        "domain": "https://st-news.webike.net",
+        "settings": {
+          "api": {
+            "external_api_key": "021e15aed1f9b17613d638140499f074"
+          },
+          "common": {
+            "ip": null,
+            "port": null,
+            "api_key": "021e15aed1f9b17613d638140499f074",
+            "hostname": null,
+            "is_vhost": false,
+            "enabled_auto_sync": true
+          }
+        },
+        "language": "ja",
+        "flag_icon": "jp",
+        "logo_img": "jp-news.jpg",
+        "receive_post_from": [
+          
+        ],
+        "has_lazyload": 1,
+        "created_at": "2020-10-07 13:07:03",
+        "updated_at": "2020-10-07 13:09:01",
+        "type": {
+          "id": 1,
+          "name": "News",
+          "created_at": null,
+          "updated_at": null,
+          "deleted_at": null
+        }
+      },
+      "translated": [
+        
+      ],
+      "approval": {
+        "id": 939,
+        "post_title": null,
+        "is_completed_title": 0,
+        "post_content": null,
+        "is_completed_content": 0,
+        "post_id": 976,
+        "status": 0,
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "2020-10-07 14:59:55",
+        "updated_at": "2020-10-07 14:59:55",
+        "deleted_at": null,
+        "updated_user": null
+      },
+      "categories": [
+        {
+          "id": 166,
+          "title": "リコール",
+          "slug": "recall",
+          "config_id": 52,
+          "parent_id": 0,
+          "external_id": 57,
+          "created_at": "2020-10-07 14:59:03",
+          "updated_at": "2020-10-07 14:59:03",
+          "deleted_at": null,
+          "pivot": {
+            "post_id": 976,
+            "category_id": 166,
+            "created_at": "2020-10-07 14:59:55",
+            "updated_at": "2020-10-07 14:59:55"
+          },
+          "source_category": [
+            
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": 693,
+          "name": "カワサキ",
+          "slug": "%e3%82%ab%e3%83%af%e3%82%b5%e3%82%ad",
+          "external_id": 731,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:56",
+          "updated_at": "2020-10-07 14:59:56",
+          "pivot": {
+            "post_id": 976,
+            "tag_id": 693,
+            "created_at": "2020-10-07 14:59:56",
+            "updated_at": "2020-10-07 14:59:56"
+          }
+        },
+        {
+          "id": 694,
+          "name": "ニンジャ250",
+          "slug": "%e3%83%8b%e3%83%b3%e3%82%b8%e3%83%a3250",
+          "external_id": 142,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:56",
+          "updated_at": "2020-10-07 14:59:56",
+          "pivot": {
+            "post_id": 976,
+            "tag_id": 694,
+            "created_at": "2020-10-07 14:59:56",
+            "updated_at": "2020-10-07 14:59:56"
+          }
+        },
+        {
+          "id": 695,
+          "name": "ニンジャ400",
+          "slug": "%e3%83%8b%e3%83%b3%e3%82%b8%e3%83%a3400",
+          "external_id": 194,
+          "config_id": 52,
+          "created_at": "2020-10-07 14:59:56",
+          "updated_at": "2020-10-07 14:59:56",
+          "pivot": {
+            "post_id": 976,
+            "tag_id": 695,
+            "created_at": "2020-10-07 14:59:56",
+            "updated_at": "2020-10-07 14:59:56"
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "http://gbm.webike.net/api/posts-public/allv2?page=1",
+  "from": 1,
+  "last_page": 67,
+  "last_page_url": "http://gbm.webike.net/api/posts-public/allv2?page=67",
+  "next_page_url": "http://gbm.webike.net/api/posts-public/allv2?page=2",
+  "path": "http://gbm.webike.net/api/posts-public/allv2",
+  "per_page": "15",
+  "prev_page_url": null,
+  "to": 15,
+  "total": 992
+}
